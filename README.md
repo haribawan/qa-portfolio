@@ -17,3 +17,6 @@ Phase 1 — Foundations (Weeks 1–4)
 
 ## Tools I'm Learning
 Git, GitHub, Linux CLI, Postman, SQL, Browser DevTools
+
+## Progress Log
+- Week 1 started: 25/02/2026 — Git fundamentals underway
